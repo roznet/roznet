@@ -1,6 +1,6 @@
 ## Welcome to my GitHub
 
-This is github page contains my open source personal projects. You can follow these development on https://ro-z.net
+This github page contains my open source personal projects. You can follow their development on https://ro-z.net
 
 ### Fitness data deep dive
 
