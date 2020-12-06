@@ -6,7 +6,7 @@ This github page contains my open source personal projects. You can follow their
 
 I am interested in fitness app and how to do analysis on your outdoor sports data. I maintain the open source iOS app [ConnectStats](https://github.com/roznet/connectstats) that contains an [iPhone app](https://ro-z.net/blog/connectstats/documentation/) that has been around and in [the store](https://itunes.apple.com/app/apple-store/id581697248?mt=8) since 2011/2012. You can also find an accompanying [server](https://github.com/roznet/connectstats_server) to handle Garmin data using [their official API](https://ro-z.net/blog/connectstats/never-ending-service-and-server-saga/). As a bonus, the app [FitFileExplorer](https://github.com/roznet/connectstats) allows you to open and see Fit Files on your mac.
 
-In the process of developping ConnectStats I required a fast Fit file library compatible with swift, so a [adapted the SDK](https://github.com/roznet/fit-sdk-swift)
+In the process of developping ConnectStats I required a fast Fit file library compatible with swift, so a [adapted the SDK](https://github.com/roznet/FitFileParser)
 
 ### Tools to make my life easier
 
