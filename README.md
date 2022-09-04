@@ -8,6 +8,10 @@ I am interested in fitness app and how to do analysis on your outdoor sports dat
 
 In the process of developping ConnectStats I required a fast Fit file library compatible with swift, so a [adapted the SDK](https://github.com/roznet/FitFileParser)
 
+### Flying app
+
+I am also interested in flying and I am working on some apps and tools related to flying. One app to help students or low experience pilot, like myself, [mentally process cross wind](https://github.com/roznet/mental-crosswind) read out from air control. And another app to [simplify synchronisation](https://github.com/roznet/flightlogstats) from the Garmin Perspective logs (Garmin 1000)
+
 ### Tools to make my life easier
 
 I published a [few utilities](https://github.com/roznet/quickutils) that i use to make my computer and developer life easier. From tools to keep in sync the configuration of my different linux and macos computer, to some tools to debug bonjour or find the iOS Simulator files from the terminal.
