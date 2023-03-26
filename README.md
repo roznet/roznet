@@ -10,7 +10,7 @@ In the process of developping ConnectStats I required a fast Fit file library co
 
 ### Flying app
 
-I am also interested in flying and I am working on some apps and tools related to flying. One app to help students or low experience pilot, like myself, [mentally process cross wind](https://github.com/roznet/mental-crosswind) read out from air control. And another app to [simplify synchronisation](https://github.com/roznet/flightlogstats) from the Garmin Perspective logs (Garmin 1000)
+I am also interested in flying and I am working on some apps and tools related to flying. One app to help students or low experience pilot, like myself, [mentally process cross wind](https://github.com/roznet/mental-crosswind) read out from air control. And another app to [simplify synchronisation](https://github.com/roznet/flightlogstats) from the Garmin Perspective logs (Garmin 1000). [FlyFunBoarding](https://github.com/roznet/flyfunboarding) is an app that enables private pilot to issue fun boarding pass to their friend when going flying, it was built also as a way to experiment on how ChatGPT and Github Copilot can help write a full app.
 
 ### Tools to make my life easier
 
