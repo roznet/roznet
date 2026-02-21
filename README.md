@@ -8,13 +8,23 @@ I am interested in fitness app and how to do analysis on your outdoor sports dat
 
 In the process of developping ConnectStats I required a fast Fit file library compatible with swift, so a [adapted the SDK](https://github.com/roznet/FitFileParser)
 
-### Flying app
+### Flying apps and tools
 
-I am also interested in flying and I am working on some apps and tools related to flying. One app to help students or low experience pilot, like myself, [mentally process cross wind](https://github.com/roznet/mental-crosswind) read out from air control. And another app to [simplify synchronisation](https://github.com/roznet/flightlogstats) from the Garmin Perspective logs (Garmin 1000). [FlyFunBoarding](https://github.com/roznet/flyfunboarding) is an app that enables private pilot to issue fun boarding pass to their friend when going flying, it was built also as a way to experiment on how ChatGPT and Github Copilot can help write a full app.
+I am a private pilot and most of my recent projects are aviation-related.
+
+**[euro_aip](https://github.com/roznet/rzflight)** (rzflight) - Python and Swift library for European AIP data: airport database (5000+ airports), procedure queries, NOTAM/briefing parsing, and a web map at maps.flyfun.aero. Published as `pip install euro-aip`.
+
+**[FlyFunApps](https://github.com/roznet/flyfun-apps)** - Full-stack aviation information system: airport explorer with AI chatbot, interactive maps, GA friendliness scoring, ForeFlight integration. React/TypeScript frontend, FastAPI backend, SwiftUI iOS app. Features an MCP server for LLM integration.
+
+**[FlyFunWeather](https://github.com/roznet/flyfun-weather)** - Medium-range aviation weather assessment for cross-country GA flights in Europe. Multi-model forecasts (GFS, ECMWF, ICON, etc.), ~40 derived aviation metrics, interactive cross-section visualization, skew-T soundings, and route advisories with hazard grading.
+
+I also maintain a few smaller flying projects: [mental-crosswind](https://github.com/roznet/mental-crosswind) to practice crosswind mental math, [flightlogstats](https://github.com/roznet/flightlogstats) for Garmin G1000 log analysis, and [flyfunboarding](https://github.com/roznet/flyfunboarding) for issuing fun boarding passes to friends.
 
 ### Tools to make my life easier
 
-I published a [few utilities](https://github.com/roznet/quickutils) that i use to make my computer and developer life easier. From tools to keep in sync the configuration of my different linux and macos computer, to some tools to debug bonjour or find the iOS Simulator files from the terminal.
+**[mcp-library-docs](https://github.com/roznet/mcp-library-docs)** - An MCP server that gives Claude access to design documentation across multiple code libraries. Enables Claude sessions working in one repo to discover and understand utilities from other repos, preventing reimplementation and keeping architectural decisions accessible. Zero-config discovery from any project with a `designs/` directory.
+
+I also published a [few utilities](https://github.com/roznet/quickutils) to keep my linux and macOS machines in sync, debug bonjour, and find iOS Simulator files from the terminal.
 
 ### Project for learning and fun
 
