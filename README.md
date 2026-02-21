@@ -10,21 +10,11 @@ In the process of developping ConnectStats I required a fast Fit file library co
 
 ### Flying apps and tools
 
-I am a private pilot and most of my recent projects are aviation-related.
-
-**[euro_aip](https://github.com/roznet/rzflight)** (rzflight) - Python and Swift library for European AIP data: airport database (5000+ airports), procedure queries, NOTAM/briefing parsing, and a web map at maps.flyfun.aero. Published as `pip install euro-aip`.
-
-**[FlyFunApps](https://github.com/roznet/flyfun-apps)** - Full-stack aviation information system: airport explorer with AI chatbot, interactive maps, GA friendliness scoring, ForeFlight integration. React/TypeScript frontend, FastAPI backend, SwiftUI iOS app. Features an MCP server for LLM integration.
-
-**[FlyFunWeather](https://github.com/roznet/flyfun-weather)** - Medium-range aviation weather assessment for cross-country GA flights in Europe. Multi-model forecasts (GFS, ECMWF, ICON, etc.), ~40 derived aviation metrics, interactive cross-section visualization, skew-T soundings, and route advisories with hazard grading.
-
-I also maintain a few smaller flying projects: [mental-crosswind](https://github.com/roznet/mental-crosswind) to practice crosswind mental math, [flightlogstats](https://github.com/roznet/flightlogstats) for Garmin G1000 log analysis, and [flyfunboarding](https://github.com/roznet/flyfunboarding) for issuing fun boarding passes to friends.
+I am passionate about aviation and hold a private pilot license. I fly around Europe whenever I can, and along the way I have been building apps to scratch my own itches. [FlyFunWeather](https://github.com/roznet/flyfun-weather) helps me plan cross-country flights with medium-range multi-model weather assessments and route advisories. [FlyFunApps](https://github.com/roznet/flyfun-apps) is an airport explorer with interactive maps to discover and search fun places to fly to, and [euro_aip](https://github.com/roznet/rzflight) collects European airport and airspace information automatically from official AIP sources. For the fun of my passengers, [FlyFunBoarding](https://github.com/roznet/flyfunboarding) lets me issue them boarding passes before we go flying. I also built [flightlogstats](https://github.com/roznet/flightlogstats) to make it easier to work with Garmin G1000 logs.
 
 ### Tools to make my life easier
 
-**[mcp-library-docs](https://github.com/roznet/mcp-library-docs)** - An MCP server that gives Claude access to design documentation across multiple code libraries. Enables Claude sessions working in one repo to discover and understand utilities from other repos, preventing reimplementation and keeping architectural decisions accessible. Zero-config discovery from any project with a `designs/` directory.
-
-I also published a [few utilities](https://github.com/roznet/quickutils) to keep my linux and macOS machines in sync, debug bonjour, and find iOS Simulator files from the terminal.
+I published a [few utilities](https://github.com/roznet/quickutils) to keep my linux and macOS machines in sync, debug bonjour, and find iOS Simulator files from the terminal. I have also discovered Claude and loved the leverage it gives me for building software, so I developed a workflow around using it that includes [mcp-library-docs](https://github.com/roznet/mcp-library-docs), an MCP server for automatic discovery of design documentation across my projects.
 
 ### Project for learning and fun
 
